@@ -1,15 +1,32 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{4BDF914D-7087-49D3-ADA0-40603DF172B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreditCardApplicationsFDM.Tests/CreditCardApplicationEvaluatorShould.cs">
+    <Files>
+      <File FileName="CreditCardApplicationsFDM.Tests/CreditCardApplicationEvaluatorShould.cs" Line="14" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreditCardApplicationsFDM" expanded="True">
+            <Node name="CreditCardApplicationsFDM" expanded="True" />
+            <Node name="CreditCardApplicationsFDM.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="CreditCardApplicationEvaluatorShould.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="CreditCardApplicationsFDM" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CreditCardApplicationsFDM.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
