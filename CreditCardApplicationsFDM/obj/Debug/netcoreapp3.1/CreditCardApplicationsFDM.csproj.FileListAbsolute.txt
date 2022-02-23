@@ -1,0 +1,10 @@
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/bin/Debug/netcoreapp3.1/CreditCardApplicationsFDM.deps.json
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/bin/Debug/netcoreapp3.1/CreditCardApplicationsFDM.dll
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/bin/Debug/netcoreapp3.1/CreditCardApplicationsFDM.pdb
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.csproj.AssemblyReference.cache
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.AssemblyInfoInputs.cache
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.AssemblyInfo.cs
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.csproj.CoreCompileInputs.cache
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.dll
+/Users/missymaloney/Projects/XF/CreditCardApplicationsFDM/CreditCardApplicationsFDM/obj/Debug/netcoreapp3.1/CreditCardApplicationsFDM.pdb
